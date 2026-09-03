@@ -53,20 +53,66 @@ const hamzazily = {
 };
 ```
 
-### 🛠️ Tech Stack
+<br clear="right"/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-| Frontend | Backend | Mobile | Database | Tools |
-|----------|---------|--------|----------|-------|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![UML](https://img.shields.io/badge/-UML-FAB040?style=flat&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | ![Expo](https://img.shields.io/badge/-Expo-1B1F23?style=flat&logo=expo&logoColor=white) | ![PL/SQL](https://img.shields.io/badge/-PL/SQL-F80000?style=flat&logo=oracle&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |  | | |
-| ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) | | | |
-| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![J2EE](https://img.shields.io/badge/-J2EE-ED8B00?style=flat&logo=java&logoColor=white) | | | |
+## ⚡ &nbsp; `$ ls ./tech-stack`
+
+<br/>
+
+<!-- ══════════ FRONTEND ══════════ -->
+<br/>
+<kbd>🎨 &nbsp; F R O N T E N D &nbsp; 🎨</kbd>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite&theme=dark&perline=9" alt="Frontend" />
+
+
+<!-- ══════════ BACKEND ══════════ -->
+<br/>
+<kbd>⚙️ &nbsp; B A C K E N D &nbsp; ⚙️</kbd>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,python,java,spring,cs&theme=dark&perline=7" alt="Backend" />
+
+
+<!-- ══════════ MOBILE ══════════ -->
+<br/>
+<kbd>📱 &nbsp; M O B I L E &nbsp; D E V E L O P M E N T &nbsp; 📱</kbd>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,java&theme=dark&perline=7" alt="Mobile" />
+
+
+<!-- ══════════ DATABASES ══════════ -->
+<br/>
+<kbd>🗄️ &nbsp; D A T A B A S E S &nbsp; 🗄️</kbd>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark&perline=4" alt="Databases" />
+
+
+
+<!-- ══════════ DEVOPS & TOOLS ══════════ -->
+<br/>
+<kbd>🔧 &nbsp; D E V O P S &nbsp; & &nbsp; T O O L S &nbsp; 🔧</kbd>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vercel,postman&theme=dark&perline=9" alt="DevOps & Tools" />
 
 </div>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 
 
