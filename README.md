@@ -40,8 +40,12 @@
 <!--                      ABOUT ME SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-### 🧑‍💻 About me 🧑‍💻
+## 💡 About me 
+
+</div>
+
 
 ```javascript
 const hamzazily = {
@@ -64,7 +68,7 @@ const hamzazily = {
 
 <div align="center">
 
-## ⚡ &nbsp; `$ ls ./tech-stack`
+## ⚡ Tech Stack
 
 <br/>
 
