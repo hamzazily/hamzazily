@@ -1,8 +1,45 @@
-# <h1 align="center">👨‍💻 Hi There — I'm Hamza hamzazily 🚀</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Enthusiast;Always+Learning" alt="Typing SVG" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    DYNAMIC HEADER BANNER                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0a0a0a,50:0d1b2a,100:0a0a0a&text=Hamza%20ZILY&fontSize=68&fontAlign=50&fontAlignY=38&fontColor=00E5FF&desc=Full%20Stack%20Developer%20%7C%20Software%20Architect%20%7C%20DevOps%20Enthusiast&descSize=20&descAlign=50&descAlignY=58&descColor=ffffff&stroke=00E5FF&strokeWidth=2&animation=fadeIn" width="100%" alt="Header"/>
+
+<!-- ═══ ANIMATED TYPING ═══ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=70&lines=%3E+Architecting+Scalable+Systems+%F0%9F%9A%80;%3E+Clean+Code+%26+Software+Architecture+%F0%9F%8F%97%EF%B8%8F;%3E+DevOps+%7C+Containers+%7C+CI%2FCD+%E2%9A%99%EF%B8%8F;%3E+Turning+Complex+Problems+into+Elegant+Solutions+%E2%9C%A8" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<!-- ═══ STATUS BADGES ═══ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_STATUS-Available_For_Hire-00E5FF?style=for-the-badge&labelColor=0d1117&color=00E5FF" alt="Status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_LOCATION-Casablanca,_Morocco-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Location"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🤝_COLLAB-Open_To_Collaborate-22c55e?style=for-the-badge&labelColor=0d1117" alt="Collaboration"/>
+</p>
+
+<!-- ═══ PROFILE METRICS ═══ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzazily&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/hamzazily?style=for-the-badge&color=22c55e&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/hamzazily?style=for-the-badge&color=FFD700&labelColor=0d1117&logo=github&label=STARS" alt="Stars"/>
+</p>
+
 </div>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 ### 🧑‍💻 À propos de moi 🧑‍💻
 
