@@ -41,13 +41,13 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 
-### 🧑‍💻 À propos de moi 🧑‍💻
+### 🧑‍💻 About me 🧑‍💻
 
 ```javascript
 const hamzazily = {
   location: "Morocco 🇲🇦",
-  role: "Software engineer 👨‍💻✅",
-  passions: ["Full Stack Development", "UI/UX Design", "Problem solving"],
+  role: "Software engineer",
+  passions: ["Full Stack Development", "UI/UX Design", "Scalable Systems"],
   currentlyLearning: "Java",
   Fun Fact: "Why do developers prefer dark mode? Because bugs are like cockroaches — they hide in the dark! 🪲"
 };
