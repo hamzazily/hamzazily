@@ -70,7 +70,7 @@ const hamzazily = {
 
 <div align="center">
 
-## ⚡ Tech Stack
+## ⚡ &nbsp; `Tech Stack`
 
 <br/>
 
