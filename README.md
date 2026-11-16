@@ -56,8 +56,8 @@ const hamzazily = {
   passions: ["Clean Architecture", "Scalable Systems", "DevOps", "Performance"],
   currentFocus: "Building robust, cloud-native backend solutions",
   philosophy: "Systems that scale, code that lasts, solutions that matter.",
-  Fun Fact: "Why do developers prefer dark mode? Because bugs are like cockroaches — they hide in the dark! 🪲"
-  openTo:     ["Backend Roles", "Architecture Consulting", "Open Source"],
+  Fun Fact: "Why do developers prefer dark mode? Because bugs are like cockroaches — they hide in the dark! 🪲",
+  openTo:   ["Backend Roles", "Architecture Consulting", "Open Source"],
 };
 ```
 
